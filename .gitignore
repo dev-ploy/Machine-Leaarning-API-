@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+venv/
+__pycache__/
+*.py[cod]
+*.so
+*.dll
+*.dylib
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Model files
+*.pkl
+
+# Environment files
+.env
+
+# VS Code settings
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Test outputs
+*.out
